@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE datasources SYSTEM "dataSource.dtd">
+
+<datasources>
+    <datasource>
+        <source-name>OracleDB</source-name>
+        <connection-url>jdbc:oracle:thin:@195.182.202.156:15215/XEPDB1</connection-url>
+        <driver-class>oracle.jdbc.OracleDriver</driver-class>
+        <user-name>student_in91_07</user-name>
+        <password>student</password>
+    </datasource>
+</datasources>
